@@ -1,0 +1,16 @@
+ //mars=createSprite(543.90,54,10);
+  //jupiter=createSprite(309,10,234);
+  //saturn=createSprite(321,532,21,23);
+  //neptune=createSprite(49,309,200,50);
+  //uranus=createSprite( 654,70,30,70);
+  //uranus.display();
+  //neptune.display();
+ // venus.display();
+  //saturn.display();
+  //mars.display();
+  //jupiter.display();
+ // mercury.display();
+  // mercury=createSprite(560, 220, 20, 20);
+ 
+  //var uranus,neptune,saturn,jupiter,mars;
+//var mercury,venus;
